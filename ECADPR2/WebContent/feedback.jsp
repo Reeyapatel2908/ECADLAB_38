@@ -57,7 +57,7 @@ transition:2s ease-in-out
 </select>
 <br>
 <select  name="category" id="cat" class="mycomp">
-<option>Suggestions</option>
+<option>Write Suggestions here!!</option>
 <option>Complaints</option>
 <option>Reviews</option>
 <option>Examination</option>
